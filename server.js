@@ -84,4 +84,4 @@ client.user.setActivity('ياسر الدوسري',{type:'LISTENING'})
          });
      }
  });
- client.login(process.env.TOKEN1);
+ client.login('NDg4NDk2NjM2MTYzNzg0NzA0.W5Wx8Q.tTtA_h4Xfpjj83z1LN8a3kkTqF0');
